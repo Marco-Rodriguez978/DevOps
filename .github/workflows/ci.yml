@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Mostrar mensaje
-        run: comandoInventado 
+        run: echo "Pipeline ejecutado correctamente"
